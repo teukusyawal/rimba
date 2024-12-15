@@ -415,10 +415,10 @@ web.view.single=function(arr){
 var {css,data}=web.model.single;
 
 data=[
-{id:1,nama:'CLIENTS',isi:10,icon:'eye'},
-{id:1,nama:'PROJECTS',isi:10,icon:'camera'},
-{id:1,nama:'POSITIVE FEEDBACKS',isi:10,icon:'geo'},
-{id:1,nama:'WEBSITE LAUNCH',isi:10,icon:'pen'},
+{id:1,nama:'CLIENTS',isi:20,icon:'eye'},
+{id:2,nama:'PROJECTS',isi:30,icon:'camera'},
+{id:3,nama:'POSITIVE FEEDBACKS',isi: 40,icon:'geo'},
+{id:4,nama:'WEBSITE LAUNCH',isi:50,icon:'pen'},
 ]
 
 out=`<div class="row col-single">
