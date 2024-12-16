@@ -12,7 +12,7 @@ web.controller[node]=cont(node);
 function cont(node) { return function(){ arr=web.model[node]; gebi(node).innerHTML=web.view[node](arr)};}
 
 // mulai model
-lorem=
+//lorem=
 
 web.model={
 
